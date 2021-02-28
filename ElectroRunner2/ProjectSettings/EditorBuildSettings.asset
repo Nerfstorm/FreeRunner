@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menues/Main.unity
+    guid: 4d20798d05c696043a6eb5de35be03b2
+  - enabled: 1
+    path: Assets/Scenes/Transitions/Transition.unity
+    guid: b6efb03268d3cea45a4e8acebae48d9d
+  - enabled: 1
+    path: Assets/Scenes/Maps/Map 1.unity
+    guid: 6c193be3da7ba7043b141829ba43c51b
+  - enabled: 1
+    path: Assets/Scenes/Levels/Berlin/Level 1.unity
+    guid: 3a0111b525452ad469c2ed0cdf08797c
+  - enabled: 1
+    path: Assets/Scenes/Levels/Berlin/Level 2.unity
+    guid: 881caa172c7cf5843a55a16aceae0a77
+  - enabled: 1
+    path: Assets/Scenes/Levels/Berlin/Level 3.unity
+    guid: 83d9aebafd5dfca40974fea237d5594a
+  - enabled: 1
+    path: Assets/Scenes/Levels/Berlin/Level 4.unity
+    guid: 53d9c853abc327b46b498868f53197b9
+  - enabled: 1
+    path: Assets/Scenes/Levels/Berlin/Level 5.unity
+    guid: 42cc50884aba7ac459d0370c21ef8a9c
+  - enabled: 1
+    path: Assets/Scenes/Levels/Berlin/Level 6.unity
+    guid: 42c801545beba2a48a16716bed3c590e
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Levels/Moscow/Level 7.unity
+    guid: 6f1b7fd1dbc26a041a2c4cfbfb2a0020
+  - enabled: 1
+    path: Assets/Scenes/Levels/Moscow/Level 8.unity
+    guid: b7ff1e1670a87f34a980f34486e5fb76
+  - enabled: 1
+    path: Assets/Scenes/Levels/Moscow/Level 9.unity
+    guid: 3bce622fb96483541814a386af9c358a
+  - enabled: 1
+    path: Assets/Scenes/Levels/Moscow/Level 10.unity
+    guid: 782a81550e341424e8168443462c4991
+  - enabled: 1
+    path: Assets/Scenes/Levels/Moscow/Level 11.unity
+    guid: d4222cdbf3293d447b1cd8cb598afca8
+  - enabled: 1
+    path: Assets/Scenes/Levels/Moscow/Level 12.unity
+    guid: bf315a3b574d2be44931b970bbd58603
+  - enabled: 1
+    path: Assets/Scenes/Levels/NCity/Level 13.unity
+    guid: 56077a95975f4bc45a56dd9b07679f31
+  - enabled: 1
+    path: Assets/Scenes/Levels/NCity/Level 14.unity
+    guid: 87e296f76a47cab45ba30900db82625e
+  - enabled: 1
+    path: Assets/Scenes/Levels/NCity/Level 15.unity
+    guid: 82ea6d08847f6c54689d63db9f3df083
+  - enabled: 1
+    path: Assets/Scenes/Levels/NCity/Level 16.unity
+    guid: 3a73545b32fba4a47bd8931638edc2e3
+  - enabled: 1
+    path: Assets/Scenes/Levels/NCity/Level 17.unity
+    guid: 00cd08339d3e14e4497c7669274c7ae0
+  - enabled: 1
+    path: Assets/Scenes/Levels/NCity/Level 18.unity
+    guid: 765fb3a208f62144b8ec4a27fc465bcf
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Levels/Sunset/Level 19.unity
+    guid: beae9708ae2093d489f194c0725dc98e
+  - enabled: 1
+    path: Assets/Scenes/Levels/Sunset/Level 20.unity
+    guid: 61ff5c0854637544780ca74753e28bd5
+  - enabled: 1
+    path: Assets/Scenes/Levels/Sunset/Level 21.unity
+    guid: 279bc81708ca50e40b2e39ad2e9cbaab
+  - enabled: 1
+    path: Assets/Scenes/Levels/Sunset/Level 22.unity
+    guid: 34c241bf866e0614ebad97843422b9ac
+  - enabled: 1
+    path: Assets/Scenes/Levels/Sunset/Level 23.unity
+    guid: 841dc6e7cfcbd8a4c9d8a213492d61cc
+  - enabled: 1
+    path: Assets/Scenes/Levels/Sunset/Level 24.unity
+    guid: bc679af42ce92da4ba8b3d9b6afa5170
+  - enabled: 1
+    path: Assets/Scenes/Levels/Timber/Level 25.unity
+    guid: 7953228a496671d419c4216b9e9fdbe7
+  - enabled: 1
+    path: Assets/Scenes/Levels/Timber/Level 26.unity
+    guid: 2b94d8d3e4970bd4e945671bd807f986
+  - enabled: 1
+    path: Assets/Scenes/Levels/Timber/Level 27.unity
+    guid: e958e7fee52b4cc42b243a1f9f347f88
+  - enabled: 1
+    path: Assets/Scenes/Levels/Timber/Level 28.unity
+    guid: c20e510bf911c854dae6fb1df4e77244
+  - enabled: 1
+    path: Assets/Scenes/Levels/Timber/Level 29.unity
+    guid: 964253d765d4a714f96acfe8503c8036
+  - enabled: 1
+    path: Assets/Scenes/Levels/Timber/Level 30.unity
+    guid: a7c9c0ebdf053204f8522c7efb0ca17a
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Levels/Woods/Level 31.unity
+    guid: e09605cb044635d4e943975a2a26ce3b
+  - enabled: 1
+    path: Assets/Scenes/Levels/Woods/Level 32.unity
+    guid: 9fca777ed1cb06042b4d628d6843f4b3
+  - enabled: 1
+    path: Assets/Scenes/Levels/Woods/Level 33.unity
+    guid: b4e627abf34c3f242b3ae20f14c7581c
+  - enabled: 1
+    path: Assets/Scenes/Levels/Woods/Level 34.unity
+    guid: dcdb4925c37e992449f4169a9d09a713
+  - enabled: 1
+    path: Assets/Scenes/Levels/Woods/Level 35.unity
+    guid: 504521b71f7cba642b9d4d4479855c69
+  - enabled: 1
+    path: Assets/Scenes/Levels/Woods/Level 36.unity
+    guid: 1c8334859f4621342a7b80f29b449f63
+  m_configObjects: {}
